@@ -1,0 +1,11 @@
+# PROMGEN: Xilinx Prom Generator P.58f
+# Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+
+SOFTWARE_VERSION P.58f
+DATE            08/28/2013 - 10:01
+SOURCE          C:\Users\odmb\Documents\LocalFW\otmb_fw_files\06-04-2013\otmb_preprod_145\06-04-2013_otmb_preprod_145.mcs
+DEVICE          16384K
+DATA_WIDTH      16
+FILL_DATA       0xFF
+SIGNATURE       0x78804EB1
+START_ADDRESS   0x00000000 END_ADDRESS 0x008CE03B DIRECTION_UP   "C:/Users/odmb/Documents/LocalFW/otmb_fw_files/06-04-2013/otmb_preprod_145/06-04-2013_otmb_preprod_145.bit" 6vlx240tff1156
