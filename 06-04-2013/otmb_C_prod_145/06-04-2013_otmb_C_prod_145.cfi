@@ -1,0 +1,11 @@
+# PROMGEN: Xilinx Prom Generator M.70d
+# Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+
+SOFTWARE_VERSION M.70d
+DATE            09/10/2013 - 18:10
+SOURCE          C:\Users\odmb\Documents\LocalFW\otmb_fw_files\06-04-2013\otmb_C_prod_145\06-04-2013_otmb_C_prod_145.mcs
+DEVICE          16384K
+DATA_WIDTH      16
+FILL_DATA       0xFF
+SIGNATURE       0x7860DD80
+START_ADDRESS   0x00000000 END_ADDRESS 0x008CE03B DIRECTION_UP   "C:/Users/odmb/Documents/LocalFW/otmb_fw_files/06-04-2013/otmb_C_prod_145/06-04-2013_otmb_C_prod_145.bit" 6vlx240tff1156
