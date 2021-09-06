@@ -8,7 +8,7 @@
 The firmware date is 2021-09-04 and the type is TypeA for non-ME11 OTMB. 
 
 ## firmware revision code
-The revision code is 0x201 if run3_daq_df is on
+The revision code is 0x401 if run3_daq_df is on
    - format version: 0x2
    - major versoin: 0x0 if run3_daq_df is on, otherwise is 0x1
    - minor version: 0x1
