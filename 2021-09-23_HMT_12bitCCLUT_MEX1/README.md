@@ -5,7 +5,9 @@
    - New trigger data format and DAQ data format
 
 ## firmware date and type
-The firmware date is 2021-09-23 and the type is TypeA for non-ME11 OTMB.  This version is rolling back to 12bits comparator code 
+The firmware date is 2021-09-23 and the type is TypeA for non-ME11 OTMB.  This version is rolling back to 12bits comparator code. 
+
+Use otmbfw_MEX1_typeA_20210923v2.tar.gz
 
 ## firmware revision code
 The revision code is 0x402 if run3_daq_dataformat_enable is on
