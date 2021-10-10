@@ -1,4 +1,4 @@
-# MEX/1 OTMB Firwmare
+# GEMCSC ME1/1 OTMB Firwmare
    - localized dead time zone
    - CCLUT algorithm 
    - GEMCSC algorithm
