@@ -6,7 +6,7 @@
    - New trigger data format and DAQ data format
 
 ## firmware date and type
-The firmware date is 2021-11-22. TypeC OTMB firmware are uploaded here.   Type C for ME11 OTMB in plus endcap and type D for minus endcap.  This version is rolling back to 12bits comparator code. The even-odd chamber parity is extracted from the chamber label
+The firmware date is 2021-11-22. TypeC and type D OTMB firmware are uploaded here.   Type C for ME11 OTMB in plus endcap and type D for minus endcap.  This version is rolling back to 12bits comparator code. The even-odd chamber parity is extracted from the chamber label
 
 
 ## firmware revision code
