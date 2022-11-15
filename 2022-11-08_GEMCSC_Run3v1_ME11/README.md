@@ -7,7 +7,7 @@
    - frontend LED invp is changed to GEM-ALCT-CLCT match
 
 ## firmware date and type
-The firmware date is 2022-04-26. TypeC and type D OTMB firmware are uploaded here.   Type C for ME11 OTMB in plus endcap and type D for minus endcap.  
+The firmware date is 2022-11-08. TypeC and type D OTMB firmware are uploaded here.   Type C for ME11 OTMB in plus endcap and type D for minus endcap.  
 
 
 
